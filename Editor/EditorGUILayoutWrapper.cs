@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace UniEditorGUILayoutWrapper
+namespace Kogane
 {
 	/// <summary>
 	/// EditorGUILayout を using static で省略できるようにするためのクラス

@@ -1,4 +1,4 @@
-# Uni Editor GUI Layout Wrapper
+﻿# Uni Editor GUI Layout Wrapper
 
 using static を使用して OnGUI の記述を少し楽にするエディタ拡張
 
@@ -44,7 +44,7 @@ public class Example : EditorWindow
 
 ```cs
 using UnityEditor;
-using static UniEditorGUILayoutWrapper.EditorGUILayoutWrapper;
+using static Kogane.EditorGUILayoutWrapper;
 
 public class Example : EditorWindow
 {
